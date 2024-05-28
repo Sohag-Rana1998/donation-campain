@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "donation_title": "Books for Underprivileged Children",
+    "donation_amount": 5000,
+    "img": "/images/Education.png",
+    "donation_sector": "Education",
+    "donation_sector_description": "This campaign aims to enhance educational opportunities for underprivileged children by providing them with essential learning resources such as books, notebooks, and stationery. Access to quality education is crucial for breaking the cycle of poverty and empowering children to build better futures. Your donation will contribute to creating a conducive learning environment and supporting the academic journey of these children.",
+    "hash_tag": "#EducationForAll"
+  },
+  {
+    "id": 2,
+    "donation_title": "Meals for the Homeless",
+    "donation_amount": 3000,
+    "img": "/images/Food.png",
+    "donation_sector": "Food",
+    "donation_sector_description": "In this campaign, we strive to address the pressing issue of hunger and food insecurity among homeless individuals. Your contribution will help us provide nutritious meals to those in need, offering them sustenance and hope for a better tomorrow. By supporting this cause, you are not only alleviating immediate hunger but also fostering dignity and resilience within vulnerable communities.",
+    "hash_tag": "#EndHunger"
+  },
+  {
+    "id": 3,
+    "donation_title": "Medical Supplies for Rural Clinics",
+    "donation_amount": 7000,
+    "img": "/images/Health.png",
+    "donation_sector": "Health",
+    "donation_sector_description": "Access to adequate healthcare is a fundamental right, yet many rural clinics lack essential medical supplies to provide effective treatment. Your donation to this campaign will enable us to equip rural clinics with the necessary supplies, including medications, bandages, and diagnostic tools. By strengthening healthcare infrastructure in remote areas, we aim to improve health outcomes and ensure equitable access to medical services for all.",
+    "hash_tag": "#HealthcareForAll"
+  },
+  {
+    "id": 4,
+    "donation_title": "Scholarships for Underprivileged Students",
+    "donation_amount": 10000,
+    "img": "/images/Education.png",
+    "donation_sector": "Education",
+    "donation_sector_description": "Financial constraints should not hinder deserving students from pursuing their educational aspirations. This campaign seeks to provide scholarships to underprivileged students, enabling them to access quality education and unlock their full potential. Your contribution will support students in covering tuition fees, books, and other educational expenses, empowering them to build brighter futures and break the cycle of poverty.",
+    "hash_tag": "#EducationForAll"
+  },
+  {
+    "id": 5,
+    "donation_title": "Emergency Food Aid for Families",
+    "donation_amount": 4000,
+    "img": "/images/Food.png",
+    "donation_sector": "Food",
+    "donation_sector_description": "During times of crisis, access to food becomes even more critical for vulnerable families affected by disasters and emergencies. This campaign aims to provide emergency food aid to families in distress, offering them immediate relief and support. Your donation will help us deliver essential food packages, ensuring that families have access to nutritious meals during their time of need.",
+    "hash_tag": "#EndHunger"
+  },
+  {
+    "id": 6,
+    "donation_title": "Medical Camps in Remote Areas",
+    "donation_amount": 6000,
+    "img": "/images/Health.png",
+    "donation_sector": "Health",
+    "donation_sector_description": "Many remote communities lack access to basic healthcare services, leading to preventable illnesses and suffering. This campaign seeks to address this issue by organizing medical camps in remote areas, providing essential healthcare services, screenings, and treatments to underserved populations. Your donation will help us reach communities in need, improve health outcomes, and save lives.",
+    "hash_tag": "#HealthcareForAll"
+  },
+  {
+    "id": 7,
+    "donation_title": "Computers for Schools in Underserved Communities",
+    "donation_amount": 8000,
+    "img": "/images/Education.png",
+    "donation_sector": "Education",
+    "donation_sector_description": "Access to technology is crucial for students' academic success and future prospects. This campaign aims to bridge the digital divide by providing computers to schools in underserved communities. Your contribution will enable students to develop essential digital skills, access educational resources online, and broaden their learning horizons. Together, we can empower the next generation with the tools they need to thrive in the digital age.",
+    "hash_tag": "#EducationForAll"
+  },
+  {
+    "id": 8,
+    "donation_title": "Nutrition Programs for Elderly Citizens",
+    "donation_amount": 3500,
+    "img": "/images/Food.png",
+    "donation_sector": "Food",
+    "donation_sector_description": "Elderly citizens often face challenges in accessing nutritious meals, which can adversely affect their health and well-being. This campaign focuses on implementing nutrition programs specifically tailored to meet the dietary needs of elderly individuals. Your donation will support initiatives such as meal delivery services, nutrition education, and community kitchens, ensuring that elderly citizens receive the nourishment they require to lead healthy and fulfilling lives.",
+    "hash_tag": "#EndHunger"
+  },
+  {
+    "id": 9,
+    "donation_title": "Clothing for Refugees",
+    "donation_amount": 6000,
+    "img": "/images/Clothing.png",
+    "donation_sector": "Clothing",
+    "donation_sector_description": "This campaign aims to provide clothing assistance to refugees who have been displaced from their homes due to conflict, persecution, or natural disasters. Your donation will help us supply essential clothing items such as coats, jackets, blankets, and footwear to refugees living in temporary shelters or resettlement camps. By addressing their basic clothing needs, we aim to restore dignity, warmth, and comfort to those facing adversity.",
+    "hash_tag": "#ClothingForAll"
+  }
+]
